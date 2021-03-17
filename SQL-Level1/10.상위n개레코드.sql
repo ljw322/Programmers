@@ -1,0 +1,3 @@
+SELECT NAME FROM ANIMAL_INS ORDER BY DATETIME ASC LIMIT 1;
+
+-- mysql은 top1 안씀. limit씀
